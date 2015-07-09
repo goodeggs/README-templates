@@ -12,5 +12,5 @@ This is a repository of template README files for use in your projects.
 
 ## Templates
 
-- application README.md
-- module README.md
+- [application README.md](application-README.md)
+- [module README.md](module-README.md)
