@@ -14,3 +14,8 @@ This is a repository of template README files for use in your projects.
 
 - [application README.md](application-README.md)
 - [module README.md](module-README.md)
+
+## Resources
+
+- [Write the docs](http://docs.writethedocs.org/writing/) Some great
+  documentation on writing documentation
