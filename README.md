@@ -1,4 +1,4 @@
-# READMEs
+# README templates
 
 This is a repository of template README files for use in your projects.
 
